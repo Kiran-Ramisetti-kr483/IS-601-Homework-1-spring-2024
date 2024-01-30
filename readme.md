@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello Professor, I'm Kiran Ramisetti</h1>
+<h3 align="center">Masters student in data science.</h3>
+- 🔭 I’m currently working on [IS-601-Homework-1-spring-2024](https://github.com/Kiran-Ramisetti-kr483/IS-601-Homework-1-spring-2024/tree/master)
 - 🌱 I’m currently learning **Git, python and snowflake. **
 
 - 📫 How to reach me **kr483@njit.edu**
